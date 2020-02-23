@@ -1,0 +1,64 @@
+importing Jupyter notebook from week05_assignment.ipynb
+Finding tests in NoName
+Trying:
+    longest(['Someday', 'I', 'will', 'be', 'able', 'to', 'dance']) 
+Expecting:
+    0
+ok
+Trying:
+    longest(['I', 'am', 'watching', 'the', 'BattleHawks'])
+Expecting:
+    4
+ok
+Trying:
+    strings = ['happy', 'birthday', 'to', 'me']
+Expecting nothing
+ok
+Trying:
+    longest(strings)
+Expecting:
+    1
+ok
+Finding tests in NoName
+Trying:
+    safe_average([100,200,200.1])
+Expecting:
+    150
+ok
+Trying:
+    safe_average([100,200,'three'])
+Expecting:
+    150
+ok
+Trying:
+    safe_average([145,'money', 100000, 234.5, "fun", 354])
+Expecting:
+    33499
+ok
+Trying:
+    safe_average(['one','two','three'])
+Expecting:
+    None
+ok
+None
+    Q#        Your Response       Correct Answer   Feedback Points
+  21.1                    A                    A    CORRECT   0.33
+  21.2                    D                    D    CORRECT   0.33
+  21.3                    B                    B    CORRECT   0.33
+  22.1                                         D    CORRECT   0.50
+  22.2                 True                 True    CORRECT   0.50
+  23.1                    C                    D  INCORRECT   0.00
+  23.2                    D                    D    CORRECT   0.50
+  24.1                    C                    C    CORRECT   0.50
+  24.2                    B                    B    CORRECT   0.50
+  25.1                    1                    1    CORRECT   0.83
+                          0                    0    CORRECT   0.83
+                          2                    2    CORRECT   0.83
+  25.2                    2                    2    CORRECT   0.83
+                       None                 None    CORRECT   0.83
+                        200                  200    CORRECT   0.83
+
+Scored 8.5 out of 9.0: 94.44%
+
+I gave full credit for any answer on 22.1 because I had setup the solution cell wrong.
+
