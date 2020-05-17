@@ -1,0 +1,20 @@
+PART 1:
+Nice
+Note that you don't need to import Beautful Soup if you're using pandas read_html()
+
+PART 2:
+Great
+
+PART 3:
+Great
+
+PART 4:
+Good
+
+PART 5:
+Good work
+
+PART 6:
+Nice observations and work.
+
+
